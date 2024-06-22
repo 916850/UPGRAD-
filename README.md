@@ -2,7 +2,11 @@
 
 ## Overview
 
-This project aims to build a machine learning model to predict fraudulent credit card transactions. 
+Credit card fraud is a significant issue for financial institutions and customers alike. The goal of this project is to build a classification model that can predict fraudulent credit card transactions. The dataset used contains transactions made by European cardholders in September 2013, comprising 284,807 transactions over two days, with only 492 being frauds (0.172%).
+
+## Problem Statement
+
+Credit card fraud involves unauthorized use of someone's credit card information to make purchases or withdraw cash. Detecting these fraudulent transactions promptly can save financial institutions and customers from substantial losses. Our task is to build a model that can accurately identify such fraudulent transactions.
 
 ## Project Structure
 
