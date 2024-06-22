@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to build a machine learning model to predict fraudulent credit card transactions. The dataset contains transactions made by European cardholders in September 2013. The dataset is highly imbalanced, with only 492 frauds out of 284,807 transactions (0.172%).
+This project aims to build a machine learning model to predict fraudulent credit card transactions. 
 
 ## Project Structure
 
@@ -16,7 +16,7 @@ This project aims to build a machine learning model to predict fraudulent credit
 ### Requirements
 
 - Python 3.6+
-- Jupyter Notebook
+- colab Notebook
 - pandas
 - numpy
 - scikit-learn
@@ -39,7 +39,7 @@ Model Training: Training a Random Forest model with hyperparameter tuning using 
 Model Evaluation: Evaluating the model performance on the test set.
 Model Saving: Saving the best model for future use.
 Running the Code
-Open the Jupyter notebook credit_card_fraud_detection.ipynb.
+Open the colab notebook credit_card_fraud_detection.ipynb.
 Run all cells to execute the complete analysis and model building process.
 The best model will be saved as best_random_forest_model.pkl.
 Example
